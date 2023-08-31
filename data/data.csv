@@ -2,3 +2,9 @@ name,address,salary,age
 mubeen,hyderabad,100,44
 ameen,chennai,200,10
 ayesha,bangalore,300
+test,null,,
+,kolkata,null,
+,,,
+,0,,
+0,,,
+,,,
